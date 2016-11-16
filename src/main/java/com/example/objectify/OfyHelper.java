@@ -14,8 +14,10 @@
  * limitations under the License.
  */
 //[START all]
-package com.example.guestbook;
+package com.example.objectify;
 
+import com.example.guestbook.Greeting;
+import com.example.guestbook.Guestbook;
 import com.googlecode.objectify.Objectify;
 import com.googlecode.objectify.ObjectifyFactory;
 import com.googlecode.objectify.ObjectifyService;
